@@ -1,0 +1,6 @@
+[component]
+name = "SigmaOS-guide-docs"
+tier = 4
+description = "Centralized offline and online documentation compiler and indexer for SigmaOS"
+contracts = ['docs-indexer', 'manual-page-generator', 'html-docs-viewer']
+upstream_inspirations = ['https://github.com/linuxmint/mintdoc']
